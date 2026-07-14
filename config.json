@@ -1,0 +1,23 @@
+{
+  "tokens": [
+    "token_1",
+    "token_2"
+  ],
+  
+  "browser": {
+    "headless": true
+  },
+  
+  "timing": {
+    "wait_between_checks": 10,
+    "retry_delay": 5,
+    "page_load_wait": 3
+  },
+  
+  "paths": {
+    "usernames_folder": "usernames",
+    "usernames_file": "usernames.txt",
+    "available_file": "available_usernames.txt",
+    "taken_file": "taken_usernames.txt"
+  }
+}
