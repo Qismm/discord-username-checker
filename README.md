@@ -1,5 +1,3 @@
-Discord Username Checker
-
 Features
 - Check usernames with single or multiple tokens
 - Automatic login with tokens
