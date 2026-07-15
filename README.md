@@ -1,6 +1,6 @@
 [![Discord](https://img.shields.io/badge/Join_Programs-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/programs)
 
-Features
+## Features
 
 - Check usernames with single or multiple tokens
 - Automatic login with tokens
@@ -8,13 +8,13 @@ Features
 - Saves taken usernames to a file
 - Shows real-time progress stats
 
-Installation
+## Installation
 
 1. Install Python 3.7+
 2. Install Selenium:
    - `pip install selenium`
 
-How to Get Discord Self Token
+## How to Get Discord Self Token
 
 1. Open Discord in browser
 2. Press `Ctrl+Shift+I` → Console
